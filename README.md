@@ -2,16 +2,12 @@
 
 Hi! I'm **Trương Anh Đức**, an **IT student** with a strong focus on **Full-Stack Development**.
 
-💻 I enjoy building web and mobile applications, working with both frontend and backend technologies, and developing practical software products.
-
 🚀 My main career interests are:
 - **Full-Stack Developer**
 - **Software Engineer**
 - **Data Engineer**
 - **Data Analyst**
 - **AI Engineer**
-
-📚 I enjoy learning new technologies, experimenting with different tools, and turning ideas into practical products.
 
 ---
 
