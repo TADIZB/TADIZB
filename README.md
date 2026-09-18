@@ -11,8 +11,6 @@ Hi! I'm **Trương Anh Đức**, an **IT student** with a strong focus on **Full
 - **Data Analyst**
 - **AI Engineer**
 
-🤖 I am particularly interested in **Data & AI**, including **OCR, Computer Vision, Image Processing, and AI-powered applications**.
-
 📚 I enjoy learning new technologies, experimenting with different tools, and turning ideas into practical products.
 
 ---
