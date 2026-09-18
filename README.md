@@ -15,6 +15,12 @@ Hi! I'm **Trương Anh Đức**, an **IT student** with a strong focus on **Full
 
 ---
 
+## 🌐 Socials:
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/truongahduc/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tadizb2703/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ductruong7d@gmail.com) 
+
+---
+
 # 💻 Tech Stack
 
 ### Main Programming Languages
@@ -62,12 +68,6 @@ Hi! I'm **Trương Anh Đức**, an **IT student** with a strong focus on **Full
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/truongahduc/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tadizb2703/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ductruong7d@gmail.com)
-
---- 
 
 # 📊 GitHub Stats
 
