@@ -65,6 +65,7 @@ Hi! I'm **Trương Anh Đức**, an **IT student** with a strong focus on **Full
 ### ORM
 ![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-%23D71F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
+---
 
 ## 🌐 Socials:
 
