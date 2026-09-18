@@ -1,4 +1,4 @@
-# 👋 About Me
+## 👋 About Me:
 
 Hi! I'm **Trương Anh Đức**, an **IT student** with a strong focus on **Full-Stack Development**.
 
