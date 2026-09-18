@@ -62,37 +62,6 @@ Hi! I'm **Trương Anh Đức**, an **IT student** with a strong focus on **Full
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-# 🚀 Featured Projects
-
-### 🔍 TADIZB — Intelligent Document OCR
-An OCR-based document processing system using image processing and text recognition techniques.
-
-**Technologies:** React · FastAPI · PostgreSQL · OpenCV · Tesseract OCR
-
-- Document image preprocessing
-- Perspective correction
-- Image enhancement
-- OCR text extraction
-- OCR result editing
-- PDF reconstruction
-
----
-
-### 🏋️ Fitness Center Management System
-A full-stack web application for managing fitness center operations.
-
-**Technologies:** React · Spring Boot · SQL Server · Redis · Docker
-
-- Member management
-- Class scheduling
-- Equipment management
-- Staff management
-- Role-based authentication
-- Dashboard and reports
-
----
 
 # 📊 GitHub Stats
 
